@@ -1,34 +1,17 @@
-# gist-604b-assignment1
-GIST 604B Assignment 1: GitHub Repository Management
+# Elham Hasani Alavy – GIS Portfolio
 
-**Elham Hasani Alavy** 
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+## About
+I am a GIS professional and graduate student at the University of Arizona with a background in spatial analysis, remote sensing, and open source geospatial tools. My work focuses on leveraging Python, PostGIS, and cloud-based workflows to analyze and visualize geographic data. I am passionate about applying GIS to solve real-world environmental and urban challenges.
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## Projects
+Links to course projects will be added as part of this assignment.
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
-
-## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
-
-## Usage
-To run the hello script:
-python scripts/hello.py
-
+## Skills
+- Python (GeoPandas, Shapely, Rasterio, Matplotlib, psycopg2, SQLAlchemy)
+- PostGIS / PostgreSQL
+- OpenStreetMap & Geofabrik data
+- QGIS
+- Git & GitHub
+- Docker & GitHub Codespaces
+- Spatial SQL (spatial joins, ST_Intersects, ST_Area, ST_Length)
+- Remote Sensing & Land Surface Temperature analysis
