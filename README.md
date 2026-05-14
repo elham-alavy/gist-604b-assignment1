@@ -9,9 +9,7 @@ Links to course projects will be added as part of this assignment.
 ## Skills
 - Python (GeoPandas, Shapely, Rasterio, Matplotlib, psycopg2, SQLAlchemy)
 - PostGIS / PostgreSQL
-- OpenStreetMap & Geofabrik data
-- QGIS
 - Git & GitHub
 - Docker & GitHub Codespaces
 - Spatial SQL (spatial joins, ST_Intersects, ST_Area, ST_Length)
-- Remote Sensing & Land Surface Temperature analysis
+- Land Surface Temperature analysis
