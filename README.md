@@ -1,10 +1,7 @@
 # Elham Hasani Alavy – GIS Portfolio
 
 ## About
-I am a graduate student at the University of Arizona with a background in energy, data science and recently open source geospatial tools. My work focuses on leveraging Python, PostGIS, and cloud-based workflows to analyze and visualize geographic data. I am passionate about applying these adanced tools to solve real-world environmental and urban challenges.
-
-## Projects
-Links to course projects will be added as part of this assignment.
+I am a researcher at the University of Arizona with a background in energy, data science and recently open source geospatial tools. My work focuses on leveraging Python, PostGIS, and cloud-based workflows to analyze and visualize geographic data. I am passionate about applying these adanced tools to solve real-world environmental and urban challenges.
 
 ## Skills
 - Python (GeoPandas, Shapely, Rasterio, Matplotlib, psycopg2, SQLAlchemy)
